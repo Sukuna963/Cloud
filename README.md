@@ -28,6 +28,7 @@
 * [Istio](https://istio.io/latest/)
 * [Knative](https://knative.dev/docs/)
 * [Serverless](https://www.serverless.com/)
+* [Firecracker](https://firecracker-microvm.github.io/)
 
 # Hacking
 ### Learning
