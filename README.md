@@ -6,7 +6,7 @@
 * [Microsoft Ignite](https://docs.microsoft.com/pt-br/learn/)
 * [IBM Training](https://www.ibm.com/training/search?q=course_brpt)
 * [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
-* 
+* [Redhat Developer](https://developers.redhat.com/)
 
 ## Labs
 * [Azure Labs](https://azure.microsoft.com/pt-br/free/lab-services/)
