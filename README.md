@@ -32,6 +32,7 @@
 * [Knative](https://knative.dev/docs/)
 * [Serverless](https://www.serverless.com/)
 * [Firecracker](https://firecracker-microvm.github.io/)
+* [Granulate](https://granulate.io/)
 
 # Hacking
 ### Learning
