@@ -24,6 +24,7 @@
 * [Play with Kubernetes](https://labs.play-with-k8s.com/)
 * [Maratona Kubernetes - Microsoft Brasil](https://www.youtube.com/watch?v=GyJDn3Ugzs8&list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv)
 * [Cilium](https://cilium.io/)
+* [Azure Cli Kung Fu](https://build5nines.com/az-kung-fu/)
 
 ## Orchestration
 * [kubesphere](https://kubesphere.io/)
