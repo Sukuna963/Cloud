@@ -26,6 +26,7 @@
 * [Cilium](https://cilium.io/)
 * [Azure Cli Kung Fu](https://build5nines.com/az-kung-fu/)
 * [KubeAcademy](https://kube.academy/)
+* [Gitpod](https://www.gitpod.io/)
 
 ## Orchestration
 * [kubesphere](https://kubesphere.io/)
