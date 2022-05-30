@@ -7,6 +7,7 @@
 * [IBM Training](https://www.ibm.com/training/search?q=course_brpt)
 * [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
 * [Redhat Developer](https://developers.redhat.com/)
+* [Clud RedHat](https://cloud.redhat.com/)
 
 ## Labs
 * [Azure Labs](https://azure.microsoft.com/pt-br/free/lab-services/)
