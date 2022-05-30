@@ -27,6 +27,7 @@
 * [Azure Cli Kung Fu](https://build5nines.com/az-kung-fu/)
 * [KubeAcademy](https://kube.academy/)
 * [Gitpod](https://www.gitpod.io/)
+* [Kasten](https://learning.kasten.io/)
 
 ## Orchestration
 * [kubesphere](https://kubesphere.io/)
@@ -44,7 +45,3 @@
 # Hacking
 ### Learning
 * [KatanaSec](https://katanasec.com/talks/)
-  ### Tools
-  * [Kubesploit](https://github.com/cyberark/kubesploit)
-  * [Kubescape](https://github.com/armosec/kubescape)
-  * [Grype](https://github.com/anchore/grype)
